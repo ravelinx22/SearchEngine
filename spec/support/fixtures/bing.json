@@ -1,0 +1,305 @@
+{
+    "_type": "SearchResponse",
+    "queryContext": {
+        "originalQuery": "test"
+    },
+    "webPages": {
+        "webSearchUrl": "https://www.bing.com/search?q=test",
+        "totalEstimatedMatches": 617000000,
+        "value": [
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+                "name": "Speedtest por Ookla - La prueba de velocidad de banda ...",
+                "url": "https://www.speedtest.net/es",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.speedtest.net/es",
+                "snippet": "Use Speedtest en todos sus dispositivos con nuestras aplicaciones gratuitas para escritorio y móvil.",
+                "deepLinks": [
+                    {
+                        "name": "Speedtest by Ookla",
+                        "url": "https://www.speedtest.net/"
+                    },
+                    {
+                        "name": "Ja",
+                        "url": "https://www.speedtest.net/ja"
+                    },
+                    {
+                        "name": "Ajustes",
+                        "url": "https://www.speedtest.net/es/settings"
+                    },
+                    {
+                        "name": "Windows",
+                        "url": "https://www.speedtest.net/es/apps/windows"
+                    },
+                    {
+                        "name": "The Global Broadband Speed Test",
+                        "url": "https://www.speedtest.net/run"
+                    },
+                    {
+                        "name": "Apps",
+                        "url": "https://www.speedtest.net/apps/desktop"
+                    }
+                ],
+                "dateLastCrawled": "2021-05-28T00:28:00.0000000Z",
+                "language": "en",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+                "name": "Tests - Tests de personalidad, inteligencia, moda, belleza ...",
+                "url": "https://www.enfemenino.com/psico/tests-ssc17.html",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.enfemenino.com/psico/tests-ssc17.html",
+                "snippet": "Tests - Test de personalidad, de inteligencia, de belleza,... todo tipo de test que te pueden ayudar a tomar decisiones o simplemente aclararte las ideas",
+                "deepLinks": [
+                    {
+                        "name": "Qué Color Eres Según Tu Personalidad",
+                        "url": "https://www.enfemenino.com/tests/test-que-color-define-tu-personalidad-s1540583.html"
+                    },
+                    {
+                        "name": "Test",
+                        "url": "https://www.enfemenino.com/tests/test-que-primera-impresion-das-s1608055.html"
+                    },
+                    {
+                        "name": "Cuáles Son Tus Manías Y Qué Dicen De Ti",
+                        "url": "https://www.enfemenino.com/tests/test-cuales-son-tus-manias-y-que-dicen-de-ti-s1598578.html"
+                    },
+                    {
+                        "name": "Qué Animal Eres Según Tu Personalidad",
+                        "url": "https://www.enfemenino.com/tests/test-que-animal-eres-segun-tu-personalidad-s1792865.html"
+                    },
+                    {
+                        "name": "Qué Te Convierte En Una Mujer Atractiva",
+                        "url": "https://www.enfemenino.com/tests/test-que-te-convierte-en-una-mujer-atractiva-s1569024.html"
+                    },
+                    {
+                        "name": "Cómo Reaccionas Bajo Presión",
+                        "url": "https://www.enfemenino.com/tests/test-reaccionar-bajo-presion-s2203371.html"
+                    }
+                ],
+                "dateLastCrawled": "2021-05-28T11:37:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+                "name": "Prueba de velocidad de Internet | Fast.com",
+                "url": "https://fast.com/es/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://fast.com/es",
+                "snippet": "Consulta la velocidad de carga y la latencia de la conexión (ping) haciendo clic en el botón “Mostrar más información”. FAST.com ofrece dos medidas diferentes de latencia para cada conexión de internet: “descargada” o “cargada” con tráfico.",
+                "dateLastCrawled": "2021-05-28T00:28:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+                "name": "Test Divertidos: Los más divertidos de Internet en 2021",
+                "url": "https://testdivertidos.net/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://testdivertidos.net",
+                "snippet": "Anuncio: ¿No sabes qué test hacer? Testdivertidos.net es una página web donde podrás hacer test, especializada en los juegos de test de personalidad, aunque se pueden encontrar de todo tipo, como son tests de amor, princesas, inteligencia, disney y mucho más. Semanalmente añadimos nuevos para que así puedas hacer test divertidos todas las semanas, nos encargamos de traeros los más ...",
+                "dateLastCrawled": "2021-05-28T23:31:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+                "name": "Tests online | Tests y Cuestionarios",
+                "url": "https://es.testsworld.net/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://es.testsworld.net",
+                "snippet": "En esta página, vas a encontrar gran variedad de cuestionarios y tests online con los que podrás aprender mucho sobre los más diversos temas y sobre tí mismo.Tests de inteligencia, tests de conducir, tests psicotécnicos, tests de embarazo, tests de amor y tests divertidos entre otros.",
+                "dateLastCrawled": "2021-05-28T19:14:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+                "name": "Speedtest by Ookla - The Global Broadband Speed Test",
+                "url": "https://www.speedtest.net/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.speedtest.net",
+                "snippet": "Use Speedtest on all your devices with our free desktop and mobile apps.",
+                "dateLastCrawled": "2021-05-28T00:08:00.0000000Z",
+                "language": "en",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+                "name": "Test Divertidos 🥇 Los tests más divertidos de",
+                "url": "https://testdivertidos.es/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://testdivertidos.es",
+                "snippet": "TestDivertidos.es Los tests gratis más divertidos de internet: inteligencia, personalidad, psicológicos, de amor, para niños...",
+                "dateLastCrawled": "2021-05-28T10:23:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+                "name": "Test de edad mental (cual es tu edad mental)",
+                "url": "https://www.arealme.com/mental/es/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.arealme.com/mental/es",
+                "snippet": "Test de edad mental cual es tu edad mental. Este test es de origen japonés y se llama 《精神年齢チェック》. Por favor, sé sincero al responder a las preguntas.",
+                "dateLastCrawled": "2021-05-28T01:08:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+                "name": "Test de Personalidad Gratis | 16Personalities",
+                "url": "https://www.16personalities.com/es/test-de-personalidad",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.16personalities.com/es/test-de-personalidad",
+                "snippet": "Disclaimer: All non-English versions of the website contain unofficial translations contributed by our users.They are not binding in any way, are not guaranteed to be accurate, and have no legal effect. The official text is the English version of the website. Please consider reporting inaccuracies to support@16personalities.com or join our translation project!",
+                "dateLastCrawled": "2021-05-28T04:09:00.0000000Z",
+                "language": "en",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+                "name": "¡El mejor test para saber tu carrera ideal!",
+                "url": "https://www.arealme.com/career/es/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.arealme.com/career/es",
+                "snippet": "Test de edad mental (cual es tu edad mental) Test sobre el uso del lado izquierdo o derecho del cerebro Test de Fecha de Nacimiento Psicológico ¿Cuando moriré? Test de Tipeo - Mira tu Puntaje de \"PPM\" (Palabras Por Minuto) Ahora IQ Test 2014 ¿Realmente sabes diferenciar los colores? Test de Compatibilidad de Nombres (Descubre la química en vuestras vidas) Test de IQ 2015 Test de ...",
+                "dateLastCrawled": "2021-05-28T12:23:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            }
+        ]
+    },
+    "relatedSearches": {
+        "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches",
+        "value": [
+            {
+                "text": "test de disney",
+                "displayText": "test de disney",
+                "webSearchUrl": "https://www.bing.com/search?q=test+de+disney"
+            },
+            {
+                "text": "test de velocidad",
+                "displayText": "test de velocidad",
+                "webSearchUrl": "https://www.bing.com/search?q=test+de+velocidad"
+            },
+            {
+                "text": "test cultura general",
+                "displayText": "test cultura general",
+                "webSearchUrl": "https://www.bing.com/search?q=test+cultura+general"
+            },
+            {
+                "text": "test de historia cultura general",
+                "displayText": "test de historia cultura general",
+                "webSearchUrl": "https://www.bing.com/search?q=test+de+historia+cultura+general"
+            },
+            {
+                "text": "test de cultura general trivial",
+                "displayText": "test de cultura general trivial",
+                "webSearchUrl": "https://www.bing.com/search?q=test+de+cultura+general+trivial"
+            },
+            {
+                "text": "tests divertidos",
+                "displayText": "tests divertidos",
+                "webSearchUrl": "https://www.bing.com/search?q=tests+divertidos"
+            },
+            {
+                "text": "preguntas niños de cultura general",
+                "displayText": "preguntas niños de cultura general",
+                "webSearchUrl": "https://www.bing.com/search?q=preguntas+ni%C3%B1os+de+cultura+general"
+            },
+            {
+                "text": "preguntas de cultura general test",
+                "displayText": "preguntas de cultura general test",
+                "webSearchUrl": "https://www.bing.com/search?q=preguntas+de+cultura+general+test"
+            }
+        ]
+    },
+    "rankingResponse": {
+        "mainline": {
+            "items": [
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 0,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 1,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 2,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 3,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 4,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 5,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 6,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 7,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 8,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 9,
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+                    }
+                }
+            ]
+        },
+        "sidebar": {
+            "items": [
+                {
+                    "answerType": "RelatedSearches",
+                    "value": {
+                        "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - test\n",
+                "totalResults": "5520000000",
+                "searchTerms": "test\n",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "017576662512468239146:omuauf_lfve"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - test\n",
+                "totalResults": "5520000000",
+                "searchTerms": "test\n",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "017576662512468239146:omuauf_lfve"
+            }
+        ]
+    },
+    "context": {
+        "title": "CS Curriculum",
+        "facets": [
+            [
+                {
+                    "anchor": "Lectures",
+                    "label": "lectures",
+                    "label_with_op": "more:lectures"
+                }
+            ],
+            [
+                {
+                    "anchor": "Assignments",
+                    "label": "assignments",
+                    "label_with_op": "more:assignments"
+                }
+            ],
+            [
+                {
+                    "anchor": "Reference",
+                    "label": "reference",
+                    "label_with_op": "more:reference"
+                }
+            ]
+        ]
+    },
+    "searchInformation": {
+        "searchTime": 0.389963,
+        "formattedSearchTime": "0.39",
+        "totalResults": "5520000000",
+        "formattedTotalResults": "5,520,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "CS1112 Test 2A Topics",
+            "htmlTitle": "CS1112 <b>Test</b> 2A Topics",
+            "link": "https://www.cs.cornell.edu/courses/cs1112/2020sp/files/Exams/exam2/t2atopics.html",
+            "displayLink": "www.cs.cornell.edu",
+            "snippet": "Students are responsible for all material covered in lecture, discussion, \nhomework and the assigned reading: Lecture: up to and including Lecture 17; \nDiscussion: ...",
+            "htmlSnippet": "Students are responsible for all material covered in lecture, discussion, <br>\nhomework and the assigned reading: Lecture: up to and including Lecture 17; <br>\nDiscussion:&nbsp;...",
+            "cacheId": "rrZyt_9h1MoJ",
+            "formattedUrl": "https://www.cs.cornell.edu/courses/cs1112/2020sp/files/.../t2atopics.html",
+            "htmlFormattedUrl": "https://www.cs.cornell.edu/courses/cs1112/2020sp/files/.../t2atopics.html"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Course Syllabus",
+            "htmlTitle": "Course Syllabus",
+            "link": "http://www.owlnet.rice.edu/~mech211/mech211s06_biy.htm",
+            "displayLink": "www.owlnet.rice.edu",
+            "snippet": "No late homework will be accepted when its due date coincides with a take home \ntest. Homework is meant as an exercise and you are encouraged to consult ...",
+            "htmlSnippet": "No late homework will be accepted when its due date coincides with a take home <br>\n<b>test</b>. Homework is meant as an exercise and you are encouraged to consult&nbsp;...",
+            "cacheId": "xPYyE9j878AJ",
+            "formattedUrl": "www.owlnet.rice.edu/~mech211/mech211s06_biy.htm",
+            "htmlFormattedUrl": "www.owlnet.rice.edu/~mech211/mech211s06_biy.htm",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "originator": "Microsoft Word 10",
+                        "progid": "Word.Document",
+                        "title": "Course Syllabus"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Homework:",
+            "htmlTitle": "Homework:",
+            "link": "http://www.owlnet.rice.edu/~mech211/Past_Tests.htm",
+            "displayLink": "www.owlnet.rice.edu",
+            "snippet": "Past Tests: Test 1 2000 PDF Solutions PDF. Test 1 2001 PDF Solutions PDF. n/a \nTest 1 2002 PDF Solutions PDF. n/a Test 1 2003 PDF Solutions PDF. Test 1 ...",
+            "htmlSnippet": "Past <b>Tests</b>: <b>Test</b> 1 2000 PDF Solutions PDF. <b>Test</b> 1 2001 PDF Solutions PDF. n/a <br>\n<b>Test</b> 1 2002 PDF Solutions PDF. n/a <b>Test</b> 1 2003 PDF Solutions PDF. <b>Test</b> 1&nbsp;...",
+            "cacheId": "G3Hr82Ii-wMJ",
+            "formattedUrl": "www.owlnet.rice.edu/~mech211/Past_Tests.htm",
+            "htmlFormattedUrl": "www.owlnet.rice.edu/~mech211/Past_<b>Tests</b>.htm",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "originator": "Microsoft Word 10",
+                        "progid": "Word.Document",
+                        "title": "Past Tests:"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CIS 341 Homework 1",
+            "htmlTitle": "CIS 341 Homework 1",
+            "link": "https://www.cis.upenn.edu/~cis341/18sp/hw/hw01/",
+            "displayLink": "www.cis.upenn.edu",
+            "snippet": "Jan 24, 2013 ... It will also familiarize you with the basic workflow of the projects in this course, \nincluding the testing framework that we will use to (partially) ...",
+            "htmlSnippet": "Jan 24, 2013 <b>...</b> It will also familiarize you with the basic workflow of the projects in this course, <br>\nincluding the <b>testing</b> framework that we will use to (partially)&nbsp;...",
+            "cacheId": "BrwqcegzcIgJ",
+            "formattedUrl": "https://www.cis.upenn.edu/~cis341/18sp/hw/hw01/",
+            "htmlFormattedUrl": "https://www.cis.upenn.edu/~cis341/18sp/hw/hw01/",
+            "labels": [
+                {
+                    "name": "assignments",
+                    "displayName": "Assignments",
+                    "label_with_op": "more:assignments"
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Homework4",
+            "htmlTitle": "Homework4",
+            "link": "https://www.cs.columbia.edu/~du/ds/homework/2013/10/17/Homework4/",
+            "displayLink": "www.cs.columbia.edu",
+            "snippet": "Nov 4, 2013 ... We will test your lock server code with RPC_LOSSY set to 5, like in Homework 1. \nAnother reason the lock server must work in these lossy ...",
+            "htmlSnippet": "Nov 4, 2013 <b>...</b> We will <b>test</b> your lock server code with RPC_LOSSY set to 5, like in Homework 1. <br>\nAnother reason the lock server must work in these lossy&nbsp;...",
+            "cacheId": "GO7-e62TH8AJ",
+            "formattedUrl": "https://www.cs.columbia.edu/~du/ds/homework/2013/10/17/Homework4/",
+            "htmlFormattedUrl": "https://www.cs.columbia.edu/~du/ds/homework/2013/10/17/Homework4/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "author": "Roxana Geambasu"
+                    }
+                ]
+            },
+            "labels": [
+                {
+                    "name": "assignments",
+                    "displayName": "Assignments",
+                    "label_with_op": "more:assignments"
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CS2604 Fall 2001: Assignments",
+            "htmlTitle": "CS2604 Fall 2001: Assignments",
+            "link": "https://courses.cs.vt.edu/cs2604/fall01/assign.html",
+            "displayLink": "courses.cs.vt.edu",
+            "snippet": "Copies of all Homework and Program Assignments will be posted here. You will \nalso be able to download the test data sets for program assignments from this ...",
+            "htmlSnippet": "Copies of all Homework and Program Assignments will be posted here. You will <br>\nalso be able to download the <b>test</b> data sets for program assignments from this&nbsp;...",
+            "cacheId": "Nso-s-ZtutYJ",
+            "formattedUrl": "https://courses.cs.vt.edu/cs2604/fall01/assign.html",
+            "htmlFormattedUrl": "https://courses.cs.vt.edu/cs2604/fall01/assign.html"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CS 91/191 Writing Test",
+            "htmlTitle": "CS 91/191 Writing <b>Test</b>",
+            "link": "https://www.cs.dartmouth.edu/~cs191/writing-test.html",
+            "displayLink": "www.cs.dartmouth.edu",
+            "snippet": "Feb 1, 2019 ... It should be about two pages in length. (I give this length as a guideline. A little \nover or under is OK.) It should contain introductory material (at ...",
+            "htmlSnippet": "Feb 1, 2019 <b>...</b> It should be about two pages in length. (I give this length as a guideline. A little <br>\nover or under is OK.) It should contain introductory material (at&nbsp;...",
+            "cacheId": "FeW7ZhCq1XgJ",
+            "formattedUrl": "https://www.cs.dartmouth.edu/~cs191/writing-test.html",
+            "htmlFormattedUrl": "https://www.cs.dartmouth.edu/~cs191/writing-<b>test</b>.html"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Homework 2 - CS113",
+            "htmlTitle": "Homework 2 - CS113",
+            "link": "http://www.cs.cornell.edu/courses/cs113/2007sp/Homework_2.html",
+            "displayLink": "www.cs.cornell.edu",
+            "snippet": "Feb 7, 2007 ... Answer the following questions based on the machine used for the course (x86/\nIA32, Linux 2.6). Contents. [hide]. 1 ...",
+            "htmlSnippet": "Feb 7, 2007 <b>...</b> Answer the following questions based on the machine used for the course (x86/<br>\nIA32, Linux 2.6). Contents. [hide]. 1&nbsp;...",
+            "cacheId": "SM-h4cOWFIMJ",
+            "formattedUrl": "www.cs.cornell.edu/courses/cs113/2007sp/Homework_2.html",
+            "htmlFormattedUrl": "www.cs.cornell.edu/courses/cs113/2007sp/Homework_2.html",
+            "labels": [
+                {
+                    "name": "assignments",
+                    "displayName": "Assignments",
+                    "label_with_op": "more:assignments"
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CS1706 Announcements",
+            "htmlTitle": "CS1706 Announcements",
+            "link": "https://courses.cs.vt.edu/~cs1706/about/announce.html",
+            "displayLink": "courses.cs.vt.edu",
+            "snippet": "Dec 18, 2016 ... The row above the column labels contains the weights for the scores. The course \ngrades are based upon the following weights: Test 1 = 10%, ...",
+            "htmlSnippet": "Dec 18, 2016 <b>...</b> The row above the column labels contains the weights for the scores. The course <br>\ngrades are based upon the following weights: <b>Test</b> 1 = 10%,&nbsp;...",
+            "cacheId": "IN__r5wxB_EJ",
+            "formattedUrl": "https://courses.cs.vt.edu/~cs1706/about/announce.html",
+            "htmlFormattedUrl": "https://courses.cs.vt.edu/~cs1706/about/announce.html"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CS 4624 Multimedia, Hypertext and Information Access - Post-test ...",
+            "htmlTitle": "CS 4624 Multimedia, Hypertext and Information Access - Post-<b>test</b> ...",
+            "link": "https://courses.cs.vt.edu/~cs4624/s97/posttest.html",
+            "displayLink": "courses.cs.vt.edu",
+            "snippet": "Return your opscan to your instructor, with \"CS4624 S97\" and your lab day (Tue \nor Thu) marked on the top. Note: \"during this course\" refers to any actions taken ...",
+            "htmlSnippet": "Return your opscan to your instructor, with &quot;CS4624 S97&quot; and your lab day (Tue <br>\nor Thu) marked on the top. Note: &quot;during this course&quot; refers to any actions taken&nbsp;...",
+            "cacheId": "IFBBf-WvjzUJ",
+            "formattedUrl": "https://courses.cs.vt.edu/~cs4624/s97/posttest.html",
+            "htmlFormattedUrl": "https://courses.cs.vt.edu/~cs4624/s97/post<b>test</b>.html"
+        }
+    ]
+}
