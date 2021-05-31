@@ -1,14 +1,10 @@
 class EngineController < ApplicationController
   def search
-    if search_params[:engine] == 'google'
-      render json: GoogleSearch.new.search(search_params[:q])
-    elsif search_params[:engine] == 'bing'
-      render json: BingSearch.new.search(search_params[:q])
-    elsif search_params[:engine] == 'both'
-      render json: { buenas: 'both' }
-    else
-      raise 'Not supported'
-    end
+    render json: {
+      results: EngineSearch.find_engine(
+        search_params[:engine]
+      ).search(search_params[:q])
+    }
   end
 
   private
